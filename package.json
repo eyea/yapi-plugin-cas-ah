@@ -1,0 +1,32 @@
+{
+  "name": "yapi-plugin-cas-ah",
+  "version": "1.0.0",
+  "description": "yapi plugin cas 自定义插件",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "assert-plus": "1.0.0",
+    "asynckit": "0.4.0",
+    "aws4": "1.11.0",
+    "caseless": "0.12.0",
+    "combined-stream": "1.0.8",
+    "extend": "3.0.2",
+    "fast-json-stable-stringify": "2.1.0",
+    "forever-agent": "0.6.1",
+    "is-typedarray": "1.0.0",
+    "isstream": "0.1.2",
+    "json-stringify-safe": "5.0.1",
+    "jsprim": "1.4.2",
+    "mime-types": "2.1.35",
+    "psl": "1.9.0",
+    "safe-buffer": "5.2.1",
+    "sshpk": "1.17.0",
+    "tunnel-agent": "0.6.0",
+    "uri-js": "4.4.1",
+    "uuid": "^3.4.0"
+  }
+}
